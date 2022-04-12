@@ -26,7 +26,7 @@
   a{
   color: rgb(68, 68, 68);
   &.router-link-exact-active {
-  color: rgb(172, 11, 92);
+  color: rgb(175, 9, 92);
 }
     }
 
